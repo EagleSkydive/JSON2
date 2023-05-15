@@ -1,1 +1,16 @@
-
+{
+"id": 1,
+"severity": "trivial",
+"priority": "High",
+"Env": "compukhter",
+"title": "bad logo on the main page",
+"pre-conditions": "tra ta ta",
+"STR": "1. tratata, 2.tratata",
+"ER": "Vot eta vot",
+"AR": "A dolzno bit' vot eta vot",
+"Attachment": "Logo + Video",
+"Author": "Me",
+"Date": "15.05.2023, 20:45",
+"Assigned": "team lead Chuck Norris",
+"Status": "assighed"
+}
